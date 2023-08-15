@@ -1,5 +1,8 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos
+# Created by https://www.toptal.com/developers/gitignore/api/macos,homebrew
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,homebrew
+
+### Homebrew ###
+Brewfile.lock.json
 
 ### macOS ###
 # General
@@ -34,4 +37,5 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
-# End of https://www.toptal.com/developers/gitignore/api/macos
+# End of https://www.toptal.com/developers/gitignore/api/macos,homebrew
+
