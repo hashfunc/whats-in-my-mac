@@ -1,3 +1,5 @@
+brew "colima"
+brew "lima"
 brew "nvim"
 brew "mas"
 
