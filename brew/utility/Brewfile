@@ -2,5 +2,6 @@ brew "mas"
 
 cask "1Password"
 cask "rectangle"
+cask "wezterm"
 
 mas "1Password for Safari", id: 1569813296
