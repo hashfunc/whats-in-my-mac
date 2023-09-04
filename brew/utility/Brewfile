@@ -7,5 +7,6 @@ cask "1Password"
 cask "rectangle"
 cask "visual-studio-code"
 cask "wezterm"
+cask "xbar"
 
 mas "1Password for Safari", id: 1569813296
