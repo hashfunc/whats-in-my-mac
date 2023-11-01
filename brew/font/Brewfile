@@ -1,9 +1,0 @@
-tap "homebrew/cask-fonts"
-
-cask "font-agave-nerd-font"
-cask "font-blex-mono-nerd-font"
-cask "font-cascadia-code-pl"
-cask "font-cascadia-code"
-cask "font-cascadia-mono-pl"
-cask "font-cascadia-mono"
-cask "font-go-mono-nerd-font"
